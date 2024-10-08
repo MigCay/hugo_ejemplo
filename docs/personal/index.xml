@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal :: Ejemplo Site</title>
+    <link>https://example.org/personal/index.html</link>
+    <description>Sobre mi Esta pagina tiene informacion sobre mi experiencia tecnica&#xA;Este texto lo quiero en rojo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Oct 2024 13:39:08 +0200</lastBuildDate>
+    <atom:link href="https://example.org/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown</title>
+      <link>https://example.org/personal/markdown/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:39:08 +0200</pubDate>
+      <guid>https://example.org/personal/markdown/index.html</guid>
+      <description>Markdown Aqui describire como usar markdown Seccion markdown con tres ficheros aca (para la practica)_index.md basico.md avanzado.md extensiones.md para ver el texto en negrita escribo&#xA;**Texto en negrita** texto normal titulo1 titulo2 titulo3 PHP es un lenguaje interesante y bonito&#xA;graph LR A(texto)--&gt;B C--&gt;D D--textoenmedioflecha--&gt;B</description>
+    </item>
+    <item>
+      <title>Tema2</title>
+      <link>https://example.org/personal/tema2/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:35:51 +0200</pubDate>
+      <guid>https://example.org/personal/tema2/index.html</guid>
+      <description>Mis aficiones Comentare lo que me gusta</description>
+    </item>
+    <item>
+      <title>Programacion</title>
+      <link>https://example.org/personal/programacion/index.html</link>
+      <pubDate>Fri, 04 Oct 2024 13:35:41 +0200</pubDate>
+      <guid>https://example.org/personal/programacion/index.html</guid>
+      <description>Programación</description>
+    </item>
+  </channel>
+</rss>

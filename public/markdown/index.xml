@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown :: Ejemplo Site</title>
-    <link>http://localhost:1313/markdown/index.html</link>
+    <link>http://localhost:40931/hugo_ejemplo/markdown/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Oct 2024 14:02:30 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:40931/hugo_ejemplo/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Funciones</title>
-      <link>http://localhost:1313/markdown/funciones/index.html</link>
+      <link>http://localhost:40931/hugo_ejemplo/markdown/funciones/index.html</link>
       <pubDate>Fri, 04 Oct 2024 14:02:30 +0200</pubDate>
-      <guid>http://localhost:1313/markdown/funciones/index.html</guid>
+      <guid>http://localhost:40931/hugo_ejemplo/markdown/funciones/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Avanzado</title>
-      <link>http://localhost:1313/markdown/avanzado/index.html</link>
+      <link>http://localhost:40931/hugo_ejemplo/markdown/avanzado/index.html</link>
       <pubDate>Fri, 04 Oct 2024 14:02:20 +0200</pubDate>
-      <guid>http://localhost:1313/markdown/avanzado/index.html</guid>
+      <guid>http://localhost:40931/hugo_ejemplo/markdown/avanzado/index.html</guid>
       <description></description>
     </item>
     <item>
       <title>Basico</title>
-      <link>http://localhost:1313/markdown/basico/index.html</link>
+      <link>http://localhost:40931/hugo_ejemplo/markdown/basico/index.html</link>
       <pubDate>Fri, 04 Oct 2024 14:02:12 +0200</pubDate>
-      <guid>http://localhost:1313/markdown/basico/index.html</guid>
+      <guid>http://localhost:40931/hugo_ejemplo/markdown/basico/index.html</guid>
       <description>Basico</description>
     </item>
   </channel>
